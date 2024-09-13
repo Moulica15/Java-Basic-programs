@@ -1,0 +1,10 @@
+class sum
+{
+    public static void main(String args[])
+    {
+        double area, r;
+        r = 24;
+        area = 3.14*r*r;
+        System.out.println("The area of circle is = "+area);
+    }
+}
