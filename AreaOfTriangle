@@ -1,0 +1,10 @@
+class sum
+{
+    public static void main(String args[])
+    {
+        double l,b,area;
+        l = 20; b = 10;
+        area = 0.5*l*b;
+        System.out.println("The area of triangle is = "+area);
+    }
+}
